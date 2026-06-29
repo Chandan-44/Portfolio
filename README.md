@@ -1,92 +1,59 @@
-🚀 Cyber Security Portfolio — Chandan Sharma
+ 🚀 Chandan Kumar - Cyber Security Portfolio
 
-🧠 Overview
+A modern, cyberpunk-inspired portfolio website showcasing my journey in Offensive Security, VAPT, Bug Bounty Hunting, and Security Research.
 
-This is my personal **Cyber Security Portfolio Website**, designed to showcase my skills, tools, experience, and work in the field of **Vulnerability Assessment & Penetration Testing (VAPT)**.
+ 🌐 Live Website
 
-The portfolio highlights my journey as a **Cyber Security Professional, Bug Bounty Hunter, and Ethical Hacker**, along with the tools I’ve built and the security domains I specialize in.
-
-
-👨‍💻 About Me
-
-Hi, I'm **Chandan Sharma** — a passionate Cyber Security enthusiast focused on offensive security.
-
-* 🔐 VAPT Specialist
-* 🐛 Active Bug Bounty Hunter
-* ☁️ Cloud Security & Pentesting Learner
-* 🛠️ Security Tool Builder
-
-I approach systems with an attacker's mindset to identify vulnerabilities before malicious actors do.
+🔗 https://chandan-44.github.io/portfolio/
 
 
-⚡ Features of Portfolio
 
-* 🔥 Modern Cyberpunk UI Design
-* 💻 Interactive Terminal Animation
-* 🎯 Detailed Skill Sections (VAPT, Cloud, OSINT, etc.)
-* 🛠️ Tools Showcase (like LeakSpy Pro)
-* 📜 Certifications & Learning Path
-* 📈 Experience Timeline
-* 📬 Contact & Resume Section
+📌 What is this?
+
+This is my personal portfolio website. It serves as a single place where anyone can learn about me, my skills, my work, and how to contact me. Think of it as my online resume and showcase combined.
 
 
-🧰 Tech Stack
+❓ Why this website?
 
-* HTML5
-* CSS3 (Advanced Animations & Effects)
-* JavaScript (DOM, Animations, Effects)
+I built this portfolio to:
 
-
-🛠️ My Tools
-
-🔎 LeakSpy Pro
-
-A browser extension for detecting:
-
-* Credential leaks
-* Exposed API keys
-* Sensitive data in web applications
-
-👉 GitHub: https://github.com/Chandan-2216/leakspy-pro
+- Show my cybersecurity skills and projects to potential employers
+- Provide an easy way for recruiters to see my work
+- Share my security writeups and research
+- Have a professional online presence
+- Make it simple for people to contact me
 
 
-📜 Certifications & Learning
+🎯 What does it contain?
 
-* OSCP (Pursuing)
-* CARTP (Pursuing)
-* OWASP Web Security
-* TryHackMe Labs
-* CTF Competitions
-
-
-💼 Experience
-
-* Founder & CEO — Cyunisec
-* Cyber Security Intern
-* Bug Bounty Hunter (HackerOne, Bugcrowd)
+- About Me - Who I am and what I do
+- Skills - My technical expertise
+- Experience - Where I've worked
+- Projects - Security tools I've built
+- Certifications - Credentials I've earned
+- Blog - Security writeups on Medium
+- Contact - How to reach me
 
 
-🌐 Live Portfolio
-
-👉 (Add your deployed website link here)
 
 
-📫 Connect With Me
+ 🛠️ How to use?
 
-* 💼 LinkedIn: https://www.linkedin.com/in/chandan-sharma-vapt/
-* 🐙 GitHub: https://github.com/Chandan-44
-
-
-📄 Resume
-
-👉 (Add your Google Drive Resume link here)
+1. Open the website link in any browser
+2. Navigate using the sidebar menu
+3. Press `?` to see keyboard shortcuts
+4. Click the palette icon to change colors
+5. Toggle dark/light mode with the theme button
 
 
-⚠️ Disclaimer
 
-This portfolio is created for **educational and professional showcasing purposes only**. All tools and techniques mentioned are used ethically.
+ 🤝 Connect With Me
+
+- 📧 Email: Chandan20516@gmail.com
+- 📱 Phone: +91 9310247308
+- 💼 LinkedIn: https://www.linkedin.com/in/chandan-kumar-eh/
+- 🐙 GitHub: https://github.com/Chandan-44
 
 
-⭐ Support
 
-If you like this project, consider giving it a ⭐ on GitHub!
+Made with ❤️ by Chandan Kumar
